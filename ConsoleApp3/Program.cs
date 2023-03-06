@@ -36,7 +36,7 @@ namespace ConsoleApp3
 
             }
 
-
+            int inputnumber3;
 
 
             
